@@ -13,6 +13,6 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 1. Place the theme CSS ***and*** the folder into `.config/Typora/themes/` on Linux/macOS.
 2. Go into the Typora settings and select Rosé Pine from the list.
 
-### Screenshots
+## Screenshots
 
 ![Typora with Rosé Pine](https://i.imgur.com/Z6s8rBA.png)
