@@ -16,3 +16,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 ## Screenshots
 
 ![Typora with Rosé Pine](https://i.imgur.com/Z6s8rBA.png)
+
+## Thanks to 
+
+- [ThatOneCalculator](https://github.com/thatonecalculator)
